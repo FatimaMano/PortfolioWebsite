@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Military Selection Management System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a business application that contributes to our most crucial part of country, Military selection. ",
+    url: "https://github.com/FatimaMano/OOP/tree/master/Military%20Selection%20Management%20System%20GUI",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Kingdom's Last hope ",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created this Game to enhance the abilities in problem solving and make the game idea a reality",
+    url: "https://github.com/FatimaMano/OOP/tree/master/Kindom's%20Last%20hope%20GUI",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://fr141277.wixsite.com/website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Youtube Content Creation",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "In this channel, we discuss about productivity and living a life in the best manner. As a computer Science Student, I want people live the life in the best manner and work in the Field in which they are passionate about..",
+    url: "https://github.com/FatimaMano/OOP/tree/master/PacManGUI%20(2)",
   },
 ];
 
