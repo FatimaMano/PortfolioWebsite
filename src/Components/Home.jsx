@@ -40,13 +40,13 @@ const Home = ({ name, title }) => {
 };
 
 Home.defaultProps = {
-  name: "Fatima",
-  title: "My Portfolio Site",
+  name: "",
+  title: "",
 };
 
 Home.propTypes = {
-  name: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
+  name: "Fatima Raees",
+  title: "My Portfolio Site",
 };
 
 export default Home;

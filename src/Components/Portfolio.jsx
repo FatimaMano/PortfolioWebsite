@@ -43,16 +43,16 @@ const projectList = [
     url: "https://github.com/FatimaMano/OOP/tree/master/Kindom's%20Last%20hope%20GUI",
   },
   {
-    title: "My Resume Site",
+    title: "My Professional Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "My Professional Site created using wix where i can share my passion, my projects, my articles, where you can find everything about me.",
     url: "https://fr141277.wixsite.com/website",
   },
   {
     title: "Youtube Content Creation",
     description:
-      "In this channel, we discuss about productivity and living a life in the best manner. As a computer Science Student, I want people live the life in the best manner and work in the Field in which they are passionate about..",
-    url: "https://github.com/FatimaMano/OOP/tree/master/PacManGUI%20(2)",
+      "Welcome to our channel dedicated to productivity and fulfilling living. Join us in optimizing work-life balance and pursuing passions with a Computer Science twist!",
+    url: "https://www.youtube.com/channel/UCequ9vnPinAwWKlybGmFPmQ",
   },
 ];
 
