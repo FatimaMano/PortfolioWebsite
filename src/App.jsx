@@ -27,10 +27,10 @@ const siteProps = {
   name: "Fatima Raees",
   title: "Cybersecurity Aspirant, Computer Science & Content Creator",
   email: "fr141277@gmail.com",
-  gitHub: "FatimaRaees",
+  gitHub: "FatimaMano",
   instagram: "Fatima_mano_offical",
-  linkedIn: "Fatima Raees",
-  medium: "Fatima Raees.",
+  linkedIn: "fatima-raees-840805210",
+  medium: "@ahmedraess851",
   twitter: "",
   youTube: "Be Productive with Fatima",
 };
