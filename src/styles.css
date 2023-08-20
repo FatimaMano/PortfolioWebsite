@@ -44,9 +44,6 @@ section img.background {
   width: 100vmax;
   z-index: -1;
 }
-black{
-  color: white;
-}
 
 h1 {
   font-family: "Cormorant Garamond", serif;
